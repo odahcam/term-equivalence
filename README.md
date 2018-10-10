@@ -4,11 +4,11 @@ English programming terms in other(s) language(s).
 
 ## Português (portuguese)
 
-| Term | Termo |
-| :--: | :---: |
-| get | obter |
-| fetch | buscar |
-| search | procurar/pesquisar |
-| find | encontrar |
-| has | tem |
-| is | eh |
+| Term   | Example           | Termo              | Exemplo                                |
+| :----: | :---------------: | :----------------: | :------------------------------------: |
+| get    | `getName()`       | obter              | `obterNome()`                          |
+| fetch  | `fetchData()`     | buscar             | `buscarDados()`                        |
+| search | `searchTerm()`    | procurar/pesquisar | `procurarTermo()` / `pesquisarTermo()` |
+| find   | `findProduct()`   | encontrar          | `encontrarProduto()`                   |
+| has    | `var hasNextPage` | tem                | `var temProximaPagina`                 |
+| is     | `var isActive`    | eh                 | `var ehAtivo`                          |
