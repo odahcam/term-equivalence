@@ -7,6 +7,7 @@ English programming terms in other(s) language(s).
 | Term   | Example           | Termo              | Exemplo                                |
 | :----: | :---------------: | :----------------: | :------------------------------------: |
 | get    | `getName()`       | obter              | `obterNome()`                          |
+| set    | `setName()`       | definir            | `definirNome()`                        |
 | fetch  | `fetchData()`     | buscar             | `buscarDados()`                        |
 | search | `searchTerm()`    | procurar/pesquisar | `procurarTermo()` / `pesquisarTermo()` |
 | find   | `findProduct()`   | encontrar          | `encontrarProduto()`                   |
